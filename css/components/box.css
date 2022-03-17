@@ -1,7 +1,7 @@
 .box {
     display: inline-block;
     background-color: aqua;
-    box-shadow: 10px 10px 0 #ffda79;
+    box-shadow: 8px 5px 8px 0 #ffda79;
     text-align: center;
     padding: 42px 44px;
     
