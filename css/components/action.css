@@ -1,0 +1,20 @@
+.action {
+    display: inline-flex;
+    align-items: center;
+    font-size: 20px ;
+    font-family: "fira code"; 
+    font-weight: 500;
+    text-decoration:none;
+    margin-right: 30px;
+    color: aquamarine;
+
+
+}
+
+.action ::before{
+    content: "";
+    background-color: rgb(6,128,243);
+    height: 10px;
+    width: 10px;
+    margin-right: 10px;
+}
